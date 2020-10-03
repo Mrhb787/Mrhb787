@@ -11,7 +11,6 @@ EAT SLEEP CODE REPEAT
 ## Find me 
 [![dev.to badge](https://img.shields.io/badge/linkedin-Abhishek-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhishek-singh-90a854192/)
 [![glitch badge](https://img.shields.io/badge/facebook-mo.Abhishek.Sengar-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/abhishek.sengar.73997/)
-![]
 
 ## My work in competitive programming
 
