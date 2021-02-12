@@ -26,6 +26,6 @@ EAT SLEEP CODE REPEAT
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Mrhb787&show_icons=true)
 
-- ⚡ Ask me about anything anytime. Cheers!!:smirk_cat:
+ ⚡ Ask me about anything anytime. Cheers!!:smirk_cat:
 </p>
 
