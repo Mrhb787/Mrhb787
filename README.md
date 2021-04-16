@@ -14,7 +14,7 @@ EAT SLEEP CODE REPEAT
 
 ## My work in competitive programming
 
-- [Codechef](https://www.codechef.com/users/mr_hitman), 4*, Max Rating - 1893 | Division 2<br>
+- [Codechef](https://www.codechef.com/users/mr_hitman), 4*, Max Rating - 1950 | Division 2<br>
 - [Hackerearth](https://www.hackerearth.com/@saintpopo), Max rating - 1603 <br>
 
 - ⚡️ I have worked in these following languages & frameworks C, C++14(STL), HTML5, Javascript, React.js, Express Js , MongoDB, Mongoose, Node Js, Python, Django, with strong knowledge in Data Structures and Algorithms, Operating Systems, Database Management Systems & Computer Networks.
