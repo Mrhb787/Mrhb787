@@ -17,7 +17,7 @@ EAT SLEEP CODE REPEAT
 - [Codechef](https://www.codechef.com/users/mr_hitman), 4*, Max Rating - 1950 | Division 2<br>
 - [Hackerearth](https://www.hackerearth.com/@saintpopo), Max rating - 1603 <br>
 
-- ⚡️ I have worked in these following languages & frameworks C, C++14(STL), HTML5, Javascript, React.js, Express Js , MongoDB, Mongoose, Node Js, Python, Django, with strong knowledge in Data Structures and Algorithms, Operating Systems, Database Management Systems & Computer Networks.
+- ⚡️ I have worked in these following languages & frameworks C, C++14(STL), HTML5, CSS3, Javascript, React.js, MongoDB, Node Js, Python, with strong knowledge in Data Structures and Algorithms, Operating Systems, Database Management Systems & Computer Networks.
 - 👨‍💻 All of my projects are available  [here](https://github.com/Mrhb787?tab=repositories)
 - 📫 How to reach me:  [Abhishekworks787@gmail.com](mailto:Abhishekworks787@gmail.com)
 
