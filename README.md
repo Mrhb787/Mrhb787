@@ -2,8 +2,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Mrhb787.Mrhb787)
 
-<img src="https://github.com/Mrhb787/Mrhb787/blob/main/banner.jpg" width="100%"> 
-
+<p align="center">
+<img src="https://github.com/Mrhb787/Mrhb787/blob/main/code.gif" height="500px"> 
+</p>
 <p>
   
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Abhishek](https://github.com/Mrhb787/). A Competitive Programmer | Beginner MERN Developer
