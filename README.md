@@ -1,6 +1,9 @@
-<img src="https://media3.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47nzuxmut34vc38hiuailwjxf9g1dqotqo04z34zoa&rid=giphy.gif" width="300"> 
 
-<p>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+
+<img src="https://github.com/Mrhb787/Mrhb787/blob/main/banner.jpg" width="100%"> 
+
+<p style = "color:blue">
   
 ## Hi there 👋, I'm [Abhishek](https://github.com/Mrhb787/). A Competitive Programmer | Beginner MERN Developer
 I'm Abhishek Singh, a Second year student pursuing a degree of Bachelor of Technology focused in [Indian Institute of Information Technology, Lucknow](https://iiitl.ac.in/), India:india: .
