@@ -5,10 +5,14 @@
 <p align="center">
 <img src="https://github.com/Mrhb787/Mrhb787/blob/main/code.gif" height="500px"> 
 </p>
-<p>
+
+<div align="center">
   
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Abhishek](https://github.com/Mrhb787/). A Competitive Programmer | Beginner MERN Developer
-I'm Abhishek Singh, a Second year student pursuing a degree of Bachelor of Technology focused in [Indian Institute of Information Technology, Lucknow](https://iiitl.ac.in/), India:india: .
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Abhishek](https://github.com/Mrhb787/).
+## A Competitive Programmer | Beginner MERN Developer
+</div>
+
+#### I'm Abhishek Singh, a Third year Student pursuing a degree of Bachelor of Technology focused in [Indian Institute of Information Technology, Lucknow](https://iiitl.ac.in/), India:india: .
 
 ## Motivation
 EAT SLEEP CODE REPEAT
@@ -43,11 +47,17 @@ EAT SLEEP CODE REPEAT
 - ⚡️ I have worked in these following languages & frameworks C, C++14(STL), HTML5, CSS3, Javascript, React.js, MongoDB, Node Js, Python, with strong knowledge in Data Structures and Algorithms, Operating Systems, Database Management Systems & Computer Networks.
 - 👨‍💻 All of my projects are available  [here](https://github.com/Mrhb787?tab=repositories)
 
-### My GitHub Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrhb787)
-### My GitHub stats
+<div align="center">
+<span>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrhb787)
+  </span>
+  
+ <span>
+   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Mrhb787&show_icons=true)
 
- ⚡ Ask me about anything anytime. Cheers!!:smirk_cat:
-</p>
+  </span>
+</div>
 
+⚡ Ask me about anything anytime. Cheers!!:smirk_cat:
