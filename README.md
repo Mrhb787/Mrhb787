@@ -44,6 +44,16 @@ EAT SLEEP CODE REPEAT
 
   
 ## Tools and Technologies
+
+### 👨‍💻 Programming languages
+
+<p>
+   <img  alt="c logo" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
+  <img  alt="c++ logo" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</p>
+
+
 - ⚡️ I have worked in these following languages & frameworks C, C++14(STL), HTML5, CSS3, Javascript, React.js, MongoDB, Node Js, Python, with strong knowledge in Data Structures and Algorithms, Operating Systems, Database Management Systems & Computer Networks.
 - 👨‍💻 All of my projects are available  [here](https://github.com/Mrhb787?tab=repositories)
 
