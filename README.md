@@ -1,6 +1,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
 
-![](https://visitor-badge.glitch.me/badge?page_id=Mrhb787.Mrhb787)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Mrhb787.Mrhb787) -->
 
 <p align="center">
 <img src="https://github.com/Mrhb787/Mrhb787/blob/main/code.gif" height="300px"> 
