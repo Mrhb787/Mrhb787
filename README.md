@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Mrhb787.Mrhb787)
 
 <p align="center">
-<img src="https://github.com/Mrhb787/Mrhb787/blob/main/code.gif" height="500px"> 
+<img src="https://github.com/Mrhb787/Mrhb787/blob/main/code.gif" height="300px"> 
 </p>
 
 <div align="center">
