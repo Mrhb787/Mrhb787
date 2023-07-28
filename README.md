@@ -57,11 +57,9 @@ EAT SLEEP CODE REPEAT
 ### 🚀 Frameworks
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<!--   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> -->
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+  <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 
@@ -83,7 +81,7 @@ EAT SLEEP CODE REPEAT
   <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
 </p>
 
-- ⚡️ I have worked in these following languages & frameworks `C, C++17(STL), HTML5, CSS3, Javascript, React.js, MongoDB, Node Js, Python, Java, Spring Boot` with strong knowledge in Data Structures and Algorithms, Operating Systems, Database Management Systems & Computer Networks.
+- ⚡️ I have worked in these following languages & frameworks `C, C++17(STL), HTML5, CSS3, Javascript, React.js, MongoDB, Node Js, Python, Java, Spring Boot, Django` with strong knowledge in Data Structures and Algorithms, Operating Systems, Database Management Systems & Computer Networks.
 - 👨‍💻 All of my projects are available  [here](https://github.com/Mrhb787?tab=repositories)
 
 <div align="center">
