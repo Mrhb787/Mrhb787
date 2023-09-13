@@ -12,7 +12,7 @@
 ## Full Stack Developer | Competitive Programmer
 </div>
 
-#### I'm Abhishek Singh, a Final year Student pursuing a degree of Bachelor of Technology focused in [Indian Institute of Information Technology, Lucknow](https://iiitl.ac.in/), India:india: .
+#### I'm Abhishek Singh, graduted from  [Indian Institute of Information Technology, Lucknow](https://iiitl.ac.in/), India focused in Bachelor of Technology with Information Technology.
 
 ## Motivation
 EAT SLEEP CODE REPEAT
