@@ -41,6 +41,7 @@ EAT SLEEP CODE REPEAT
   <img alt="c++ logo" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
   <img alt="java" src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="go" src="https://img.shields.io/badge/GO-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
 </p>
 
 ### 🚀 Frameworks
