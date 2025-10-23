@@ -50,6 +50,8 @@ EAT SLEEP CODE REPEAT
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
   <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <imr src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 
@@ -71,7 +73,7 @@ EAT SLEEP CODE REPEAT
   <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
 </p>
 
-- ⚡️ I have worked in these following languages & frameworks `C, C++17(STL), HTML5, CSS3, Javascript, React.js, MongoDB, Node Js, Python, Java, Spring Boot, Django` with strong knowledge in Data Structures and Algorithms, Operating Systems, Database Management Systems & Computer Networks.
+- ⚡️ I have worked in these following languages & frameworks `C, C++17(STL), Go, HTML5, CSS3, Javascript, React.js, MongoDB, Node Js, Python, Java, Spring Boot, Django` with strong knowledge in Data Structures and Algorithms, Operating Systems, Database Management Systems & Computer Networks.
 - 👨‍💻 All of my projects are available  [here](https://github.com/Mrhb787?tab=repositories)
 
 <div align="center">
